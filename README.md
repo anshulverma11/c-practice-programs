@@ -62,6 +62,10 @@ Each day focuses on a new concept with simple, beginner-friendly programs.
 - VS Code / Notepad
 
 ---
+## Day 7 – Pointers in C
+- Pointer basics (address and value)
+- Modifying variable value using pointer
+
 
 ## 📌 Learning Goal
 To build **strong C fundamentals** and maintain **consistent GitHub contributions** through daily practice.
